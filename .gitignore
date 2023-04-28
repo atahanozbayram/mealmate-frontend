@@ -22,3 +22,6 @@ coverage/
 # misc files
 .DS_Store
 Thumbs.db
+
+# log files
+*.log
