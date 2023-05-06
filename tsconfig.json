@@ -14,7 +14,7 @@
 		"noUnusedLocals": false,
 		"noUnusedParameters": false,
 		"strict": true,
-		"baseUrl": "./",
+		"baseUrl": "./src",
 		"module": "ESNext",
 		"moduleResolution": "node",
 		"paths": {},
